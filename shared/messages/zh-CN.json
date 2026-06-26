@@ -1,0 +1,17 @@
+{
+  "app.name": "ContentForge",
+  "app.tagline": "AI 内容二次创作工具",
+  "nav.dashboard": "仪表盘",
+  "nav.projects": "项目",
+  "nav.settings": "设置",
+  "project.create": "创建项目",
+  "project.sourceUrl": "来源链接",
+  "project.sourceType": "内容类型",
+  "project.title": "项目名称",
+  "common.save": "保存",
+  "common.cancel": "取消",
+  "common.delete": "删除",
+  "common.loading": "加载中...",
+  "common.error": "出错了",
+  "common.empty": "暂无数据"
+}

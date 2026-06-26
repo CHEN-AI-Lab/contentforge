@@ -1,0 +1,17 @@
+{
+  "app.name": "ContentForge",
+  "app.tagline": "AI Content Repurposing Tool",
+  "nav.dashboard": "Dashboard",
+  "nav.projects": "Projects",
+  "nav.settings": "Settings",
+  "project.create": "Create Project",
+  "project.sourceUrl": "Source URL",
+  "project.sourceType": "Content Type",
+  "project.title": "Project Title",
+  "common.save": "Save",
+  "common.cancel": "Cancel",
+  "common.delete": "Delete",
+  "common.loading": "Loading...",
+  "common.error": "Something went wrong",
+  "common.empty": "No data"
+}
