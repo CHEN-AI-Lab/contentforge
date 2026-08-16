@@ -4,7 +4,8 @@ import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 import { Geist, Geist_Mono } from "next/font/google";
 import type { ReactNode } from "react";
-import "./globals.css";
+import "./globals.css"
+import VisitTracker from "@/components/VisitTracker";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -53,7 +54,8 @@ export default async function RootLayout({
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main className="min-h-[calc(100vh-4rem)]">{children}</main>
-          <Footer />
+                    <Footer />
+                    <VisitTracker />
         </NextIntlClientProvider>
       </body>
     </html>
