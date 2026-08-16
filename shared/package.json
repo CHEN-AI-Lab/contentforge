@@ -12,7 +12,7 @@
     "./validators": "./validators/index.ts",
     "./utils": "./utils/index.ts",
     "./api": "./api/index.ts",
-    "./hooks": "./hooks/index.ts",
+    "./hooks/*": "./hooks/*",
     "./messages": "./messages/index.ts"
   },
   "scripts": {
